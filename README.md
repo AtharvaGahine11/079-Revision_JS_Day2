@@ -267,7 +267,7 @@ Reference: [MDN Web Docs - Functions](https://developer.mozilla.org/en-US/docs/W
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-##Mixed Concepts**
+## **Mixed Concepts**
 
 1. **What will typeof "hello" return?**
     - **a) string**
