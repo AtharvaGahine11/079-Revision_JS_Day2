@@ -328,3 +328,43 @@ Reference:[ MDN Web Docs - NaN](https://developer.mozilla.org/en-US/docs/Web/Jav
 Answer: a) parseInt()
 
 Reference: [MDN Web Docs - parseInt()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/parseInt)
+
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+1. Why is using let safer than var?
+Answer:
+Using let is considered safer than var because let is block-scoped, meaning it's confined to the block in which it's declared. This prevents variables from leaking into the global scope and reduces the risk of unexpected behavior due to variable hoisting or redeclaration. In contrast, var is function-scoped and can lead to issues where variables are accessible outside of their intended context.
+
+Reference:
+[Difference between var, let and const keywords in JavaScript](https://www.geeksforgeeks.org/difference-between-var-let-and-const-keywords-in-javascript/)
+
+2. What is the main benefit of separating JavaScript from HTML?
+Answer:
+Separating JavaScript from HTML enhances code organization, readability, and maintainability. It allows developers to manage and update code more efficiently, promotes reusability, and improves website performance through better caching strategies. This separation adheres to the principle of "Separation of Concerns," ensuring that the structure (HTML), presentation (CSS), and behavior (JavaScript) of a web page are handled independently.
+
+Reference:
+[How to Add JavaScript in HTML Document?](https://www.geeksforgeeks.org/where-to-put-javascript-in-an-html-document/)
+
+3. Why is Math.random() useful in games or UI effects?
+Answer:
+Math.random() is useful in games and UI effects because it introduces randomness, making experiences more dynamic and engaging. It's commonly used for generating unpredictable outcomes, such as random enemy movements, loot drops, or visual effects. For instance, in a "Guess the Number" game, Math.random() can generate a random number that the player has to guess, enhancing the game's replayability.
+
+Reference:
+[Guess the number with React](https://www.geeksforgeeks.org/guess-the-number-with-react/)
+
+4. What happens if two event listeners are attached to the same element?
+Answer:
+When multiple event listeners are attached to the same element for the same event type, all listeners are invoked in the order they were added. This allows for modular and flexible event handling without overwriting existing listeners. It's a common practice to have multiple functions respond to a single event, enabling complex interactions and behaviors on web pages.
+
+Reference:
+[JavaScript addEventListener() with Examples](https://www.geeksforgeeks.org/javascript-addeventlistener-with-examples/)
+
+5. Why should we use functions to organize code?
+Answer:
+Using functions to organize code promotes reusability, readability, and maintainability. Functions encapsulate logic into manageable blocks, making it easier to debug, test, and understand the codebase. They allow developers to break down complex problems into smaller, more manageable pieces, facilitating better code organization and reducing redundancy.
+
+Reference:
+[Functions in JavaScript](https://www.geeksforgeeks.org/functions-in-javascript/)
