@@ -102,6 +102,8 @@ Answer: c) addEventListener()
 
 Reference:  - [addEveW3SchoolsntListener()](https://www.w3schools.com/jsref/met_document_addeventlistener.asp)
 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ## **Math.random()**
 
 1. **What does Math.random() return?**
@@ -153,6 +155,8 @@ Reference: [GeeksforGeeks - Convert Float to Whole Number](https://www.geeksforg
 Answer: b) 4
 
 Reference: [W3Schools - Math.floor()](https://www.w3schools.com/jsref/jsref_floor.asp)
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 ## **Variables**
@@ -207,6 +211,8 @@ Answer: c) const
 
 Reference:[ MDN Web Docs - const](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/const)
 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 
 ## **Functions**
@@ -258,6 +264,8 @@ Reference:[ MDN Web Docs - return](https://developer.mozilla.org/en-US/docs/Web/
 Answer: b) A variable passed into a function
 
 Reference: [MDN Web Docs - Functions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions)
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ##Mixed Concepts**
 
