@@ -49,6 +49,8 @@ Answer: c) To get or set the HTML content of an element
 
 Reference:[ DEV Community - Using innerHTML in JavaScript](https://dev.to/zigzagoon1/using-innerhtml-in-javascript-2h51)
 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ## **Events**
 
 1. **What is an event in JavaScript?**
