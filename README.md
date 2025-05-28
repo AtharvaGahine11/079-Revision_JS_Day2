@@ -347,7 +347,7 @@ Separating JavaScript from HTML enhances code organization, readability, and mai
 
 Reference:
 [How to Add JavaScript in HTML Document?](https://www.geeksforgeeks.org/where-to-put-javascript-in-an-html-document/)
-
+ 
 3. Why is Math.random() useful in games or UI effects?
 Answer:
 Math.random() is useful in games and UI effects because it introduces randomness, making experiences more dynamic and engaging. It's commonly used for generating unpredictable outcomes, such as random enemy movements, loot drops, or visual effects. For instance, in a "Guess the Number" game, Math.random() can generate a random number that the player has to guess, enhancing the game's replayability.
